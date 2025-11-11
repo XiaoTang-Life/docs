@@ -1,0 +1,45 @@
+# Jekyll Configuration for Mossi Documentation
+# GitHub Pages 配置文件
+
+# 基本信息
+title: Mossi Documentation
+description: Official documentation for Mossi - Privacy-first virtual pet widget app
+lang: en
+
+# 主题设置 - Cayman 主题简洁美观
+theme: jekyll-theme-cayman
+
+# Markdown 处理器配置
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  auto_ids: true
+  hard_wrap: false
+
+# 插件
+plugins:
+  - jekyll-relative-links
+
+# 相对链接配置
+relative_links:
+  enabled: true
+  collections: false
+
+# 排除不需要发布的文件
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# 包含的文件
+include:
+  - _config.yml
+
+# 站点设置
+show_downloads: false
+github:
+  is_project_page: true
+
