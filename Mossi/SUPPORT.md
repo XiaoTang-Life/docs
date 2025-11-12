@@ -41,7 +41,7 @@
 - 🚀 **Offline First**: Works perfectly without internet
 
 ### 📋 System Requirements
-- **iOS**: 17.0 or later
+- **iOS**: 16.0 or later
 - **Device**: iPhone (all models)
 - **Storage**: ~20 MB
 
@@ -84,7 +84,7 @@
 **A**: Yes! Mossi is completely free with no subscriptions, no ads, and no in-app purchases.
 
 #### Q: What devices are supported?
-**A**: Mossi requires iOS 17.0 or later and works on all iPhone models.
+**A**: Mossi requires iOS 16.0 or later and works on all iPhone models.
 
 ---
 
@@ -189,7 +189,7 @@
 **Solutions**:
 1. Open the main Mossi app at least once
 2. Grant necessary permissions if prompted
-3. Ensure iOS is updated to 17.0+
+3. Ensure iOS is updated to 16.0+
 4. Remove widget and add it again
 5. Restart your iPhone
 
@@ -204,7 +204,7 @@
 ### App Crashes on Launch
 **Solutions**:
 1. Restart your iPhone
-2. Ensure iOS is updated to 17.0+
+2. Ensure iOS is updated to 16.0+
 3. Delete and reinstall the app
 4. Contact support with crash details
 
@@ -298,7 +298,7 @@ Add us on WeChat for:
 - 🚀 **离线优先**：无需网络完美运行
 
 ### 📋 系统要求
-- **iOS 版本**：17.0 或更高
+- **iOS 版本**：16.0 或更高
 - **设备**：iPhone（所有机型）
 - **存储空间**：约 20 MB
 
@@ -341,7 +341,7 @@ Add us on WeChat for:
 **A**：是的！Mossi 完全免费，没有订阅、没有广告、没有内购。
 
 #### Q: 支持哪些设备？
-**A**：Mossi 需要 iOS 17.0 或更高版本，支持所有 iPhone 机型。
+**A**：Mossi 需要 iOS 16.0 或更高版本，支持所有 iPhone 机型。
 
 ---
 
@@ -446,7 +446,7 @@ Add us on WeChat for:
 **解决方案**：
 1. 至少打开一次 Mossi 主应用
 2. 授予必要的权限（如有提示）
-3. 确保 iOS 已更新到 17.0+
+3. 确保 iOS 已更新到 16.0+
 4. 删除小组件并重新添加
 5. 重启 iPhone
 
@@ -461,7 +461,7 @@ Add us on WeChat for:
 ### 应用启动时崩溃
 **解决方案**：
 1. 重启 iPhone
-2. 确保 iOS 已更新到 17.0+
+2. 确保 iOS 已更新到 16.0+
 3. 删除并重新安装应用
 4. 联系支持并提供崩溃详情
 
@@ -555,7 +555,7 @@ Add us on WeChat for:
 - 🚀 **Hors Ligne** : Fonctionne parfaitement sans internet
 
 ### 📋 Configuration Requise
-- **iOS** : 17.0 ou ultérieur
+- **iOS** : 16.0 ou ultérieur
 - **Appareil** : iPhone (tous modèles)
 - **Stockage** : ~20 MB
 
@@ -598,7 +598,7 @@ Add us on WeChat for:
 **R** : Oui ! Mossi est entièrement gratuit, sans abonnements, sans publicités et sans achats intégrés.
 
 #### Q : Quels appareils sont pris en charge ?
-**R** : Mossi nécessite iOS 17.0 ou ultérieur et fonctionne sur tous les modèles d'iPhone.
+**R** : Mossi nécessite iOS 16.0 ou ultérieur et fonctionne sur tous les modèles d'iPhone.
 
 ---
 
@@ -703,7 +703,7 @@ Add us on WeChat for:
 **Solutions** :
 1. Ouvrez l'application Mossi principale au moins une fois
 2. Accordez les permissions nécessaires si demandé
-3. Assurez-vous qu'iOS est à jour (17.0+)
+3. Assurez-vous qu'iOS est à jour (16.0+)
 4. Supprimez le widget et rajoutez-le
 5. Redémarrez votre iPhone
 
@@ -718,7 +718,7 @@ Add us on WeChat for:
 ### L'Application Plante au Lancement
 **Solutions** :
 1. Redémarrez votre iPhone
-2. Assurez-vous qu'iOS est à jour (17.0+)
+2. Assurez-vous qu'iOS est à jour (16.0+)
 3. Supprimez et réinstallez l'application
 4. Contactez le support avec les détails du crash
 
@@ -790,7 +790,7 @@ Ajoutez-nous sur WeChat pour :
 **Fait avec ❤️ pour tous ceux qui apprécient la compagnie virtuelle**
 
 ![Badge](https://img.shields.io/badge/Mossi-v1.0-blue)
-![Badge](https://img.shields.io/badge/iOS-17.0%2B-lightgrey)
+![Badge](https://img.shields.io/badge/iOS-16.0%2B-lightgrey)
 ![Badge](https://img.shields.io/badge/Support-Active-green)
 
 **Last Updated | 最后更新 | Dernière Mise à Jour**: November 12, 2025
